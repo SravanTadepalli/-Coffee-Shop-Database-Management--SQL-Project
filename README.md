@@ -1,4 +1,4 @@
-# -Coffee-Shop-Database-Management--SQL-Project
+# Coffee-Shop-Database-Management--SQL-Project
 
 ## 📌 Project Overview
 
